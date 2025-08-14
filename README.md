@@ -12,6 +12,6 @@ Uma ferramenta de linha de comando feita em Python que busca a letra de uma mús
 
 ## 🚀 Como Usar (Versão Executável para Windows)
 
-1. Vá para a **[Página de Releases](LINK_DA_SUA_RELEASE_AQUI)**.
+1. Vá para a **[Página de Releases](https://github.com/allymonteiro/Buscador_de_Letras/releases)**.
 2. Baixe o arquivo `letras.exe` da versão mais recente.
 3. Dê dois cliques para executar, digite o artista e a música, e aguarde o resultado!
